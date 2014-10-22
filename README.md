@@ -1,7 +1,8 @@
 pipic
 =====
 
-Tools for Raspberry Pi photography
+Tools for Raspberry Pi photography.
+Goal to add both video and 5 minute image output for desktop and youtube outputs.
 
 
 This repository contains scripts I am using for timelapse projects with the raspberry pi.
